@@ -1,0 +1,6 @@
+# Giữ nguyên CRLF cho script Windows (file .bat dùng LF dễ chạy sai nhãn goto)
+*.bat -text
+*.ps1 -text
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

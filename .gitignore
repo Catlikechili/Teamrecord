@@ -1,0 +1,7 @@
+transcripts/
+__pycache__/
+*.pyc
+.venv/
+*.wav
+*.docx
+*.log
